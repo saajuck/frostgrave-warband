@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 import Wizard from './components/Wizard';
 import { SIGILIST } from './data/WizardTypes';
-
+import "./font/NotoSerif.ttf"
 import './App.css';
 import Soldier from './components/Soldier';
 import { generateWizardName } from './data/Names';
